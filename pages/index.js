@@ -24,8 +24,6 @@ export default function Home( { posts }) {
               </h2>
             </article>
         ))}
-        <p>Todo: get Sanity image</p>
-        <p>Todo: get Sanity content</p>
       </main>
 
       <footer className={styles.footer}>
